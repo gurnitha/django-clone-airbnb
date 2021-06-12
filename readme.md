@@ -148,8 +148,13 @@
         modified:   db.django_clone_airbnb.sqlite3
         modified:   readme.md
 
+#### 4.4 on_delete, Amenity, Faciliy, HouseRule Models
 
-
+        modified:   apps/rooms/admin.py
+        new file:   apps/rooms/migrations/0003_auto_20210612_2050.py
+        modified:   apps/rooms/models.py
+        modified:   db.django_clone_airbnb.sqlite3
+        modified:   readme.md
 
 
 
