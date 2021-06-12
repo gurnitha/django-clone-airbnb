@@ -103,8 +103,16 @@
         modified:   apps/users/admin.py
         modified:   db.django_clone_airbnb.sqlite3
 
+#### 3.6 RECAP OMG (removed migration files and re-run migrations)
 
-
+        modified:   apps/users/migrations/0001_initial.py
+        deleted:    apps/users/migrations/0002_user_bio.py
+        deleted:    apps/users/migrations/0003_auto_20210612_1527.py
+        modified:   apps/users/models.py
+        modified:   config/settings.py
+        modified:   db.django_clone_airbnb.sqlite3
+        new file:   db.django_clone_airbnb_ori.sqlite3
+        modified:   readme.md
 
 
 
