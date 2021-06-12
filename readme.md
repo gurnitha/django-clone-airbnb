@@ -1,26 +1,26 @@
-# CLONE AIRBNB USING DJANGO BASED ON NOMAD CODERS REPOSITORY ON GITHUB
+## CLONE AIRBNB USING DJANGO BASED ON NOMAD CODERS REPOSITORY ON GITHUB
 
-#### 1. Create virtual environment with django 2.2.5 and local repository
-
-		E:\workspace\laragon\www
-		λ cd E:\workspace\django\Nomad-Coders\DjangoCloneAirBnb
-
-		E:\workspace\django\Nomad-Coders\DjangoCloneAirBnb
-		λ python -m venv venv39225
-
-		E:\workspace\django\Nomad-Coders\DjangoCloneAirBnb
-		λ touch .gitignore readme.md
-
-		E:\workspace\django\Nomad-Coders\DjangoCloneAirBnb
-		λ venv39225\scripts\activate
-
-		E:\workspace\django\Nomad-Coders\DjangoCloneAirBnb
-		(venv39225) λ python -m pip install django==2.2.5
+#### 1.2 Creating our Env and Installing Django
 
         new file:   .gitignore
         new file:   readme.md
 
-#### 2. Create github repository
+#### 1.3 Creating the Github Repository
 
 		https://github.com/gurnitha/django-clone-airbnb        
 		modified:   readme.md
+
+#### 2.0 Creating a Django Project
+
+	├── config
+	│   ├── __init__.py
+	│   ├── settings.py
+	│   ├── urls.py
+	│   └── wsgi.py
+	├── manage.py
+	├── readme.md
+	└── venv39225
+	    ├── Include
+	    ├── Lib
+	    ├── Scripts
+	    └── pyvenv.cfg
