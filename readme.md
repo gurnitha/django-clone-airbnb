@@ -25,6 +25,6 @@
 		    ├── Scripts
 		    └── pyvenv.cfg
 
-#### 2.1 Setting up VSCode and Python Like a PRO
+#### 2.1 Setting up VSCode and Python Like a PRO & modified readme.md file
 
 		PASS
