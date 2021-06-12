@@ -56,3 +56,8 @@
 		    ├── Lib
 		    ├── Scripts
 		    └── pyvenv.cfg
+
+#### 2.7 Explaining the Apps
+
+		PASS
+        modified:   readme.md		
