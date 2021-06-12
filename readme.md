@@ -12,15 +12,19 @@
 
 #### 2.0 Creating a Django Project
 
-	├── config
-	│   ├── __init__.py
-	│   ├── settings.py
-	│   ├── urls.py
-	│   └── wsgi.py
-	├── manage.py
-	├── readme.md
-	└── venv39225
-	    ├── Include
-	    ├── Lib
-	    ├── Scripts
-	    └── pyvenv.cfg
+		├── config
+		│   ├── __init__.py
+		│   ├── settings.py
+		│   ├── urls.py
+		│   └── wsgi.py
+		├── manage.py
+		├── readme.md
+		└── venv39225
+		    ├── Include
+		    ├── Lib
+		    ├── Scripts
+		    └── pyvenv.cfg
+
+#### 2.1 Setting up VSCode and Python Like a PRO
+
+		PASS
