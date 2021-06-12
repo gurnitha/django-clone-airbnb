@@ -28,3 +28,7 @@
 #### 2.1 Setting up VSCode and Python Like a PRO & modified readme.md file
 
 		PASS
+
+#### 2.2 Falling in love with Django part One
+
+		PASS		
