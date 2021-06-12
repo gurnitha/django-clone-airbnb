@@ -70,9 +70,14 @@
         modified:   config/settings.py
         modified:   readme.md
 
+#### 3.2 First Model Fields
 
-
-
+        modified:   apps/users/admin.py
+        new file:   apps/users/migrations/0002_user_bio.py
+        modified:   apps/users/models.py
+        modified:   config/settings.py
+        new file:   db.django_clone_airbnb.sqlite3
+        modified:   readme.md
 
 
 
