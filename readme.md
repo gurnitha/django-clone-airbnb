@@ -79,7 +79,12 @@
         new file:   db.django_clone_airbnb.sqlite3
         modified:   readme.md
 
+#### 3.3 Finishing User Model
 
+        new file:   apps/users/migrations/0003_auto_20210612_1527.py
+        modified:   apps/users/models.py
+        modified:   db.django_clone_airbnb.sqlite3
+        modified:   readme.md
 
 
 
@@ -207,5 +212,3 @@
 
 
 
-
- 
