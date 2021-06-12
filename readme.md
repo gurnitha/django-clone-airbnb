@@ -86,8 +86,12 @@
         modified:   db.django_clone_airbnb.sqlite3
         modified:   readme.md
 
+#### 3.4 (Added list_display & list_filter) Falling in Love with Admin Panel
 
-
+        modified:   apps/users/admin.py
+        modified:   db.django_clone_airbnb.sqlite3
+        new file:   ing.PNG
+        modified:   readme.md
 
 
 

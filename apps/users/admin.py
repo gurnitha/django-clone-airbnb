@@ -12,4 +12,8 @@ from apps.users.models import User  # <-- it can be like this: from apps.users i
 
 
 class CustomUserAdmin(admin.ModelAdmin):
-	pass 
+	
+    """ Custom User Admin """
+
+    list_display = ("username", "email", "gender", "language", "currency", "superhost")
+    list_filter = ("language", "currency", "superhost")
