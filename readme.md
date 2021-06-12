@@ -19,3 +19,8 @@
 
         new file:   .gitignore
         new file:   readme.md
+
+#### 2. Create github repository
+
+		https://github.com/gurnitha/django-clone-airbnb        
+		modified:   readme.md
