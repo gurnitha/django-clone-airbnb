@@ -114,6 +114,19 @@
         new file:   db.django_clone_airbnb_ori.sqlite3
         modified:   readme.md
 
+#### 4.0 TimeStampedModel
+
+        new file:   apps/core/__init__.py
+        new file:   apps/core/admin.py
+        new file:   apps/core/apps.py
+        new file:   apps/core/models.py
+        new file:   apps/core/tests.py
+        new file:   apps/core/views.py
+        modified:   apps/rooms/admin.py
+        modified:   apps/rooms/apps.py
+        modified:   apps/rooms/models.py
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
