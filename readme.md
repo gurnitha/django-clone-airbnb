@@ -95,11 +95,13 @@
 
 
 
+        modified:   apps/users/admin.py
+        modified:   db.django_clone_airbnb.sqlite3
 
+#### 3.5 UserAdmin + CustomAdmin
 
-
-
-
+        modified:   apps/users/admin.py
+        modified:   db.django_clone_airbnb.sqlite3
 
 
 
