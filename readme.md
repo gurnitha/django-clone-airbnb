@@ -128,11 +128,25 @@
         modified:   config/settings.py
         modified:   readme.md
 
+#### 4.1 Room Model part One
 
+        modified:   apps/core/models.py
+        new file:   apps/rooms/migrations/0001_initial.py
+        modified:   apps/rooms/models.py
+        modified:   config/settings.py
+        modified:   db.django_clone_airbnb.sqlite3
+        modified:   readme.md
 
+#### 4.3 ManyToMany like a Boss
 
-
-
+        modified:   apps/core/models.py
+        modified:   apps/rooms/admin.py
+        new file:   apps/rooms/migrations/0001_initial.py
+        new file:   apps/rooms/migrations/0002_auto_20210612_2039.py
+        modified:   apps/rooms/models.py
+        modified:   config/settings.py
+        modified:   db.django_clone_airbnb.sqlite3
+        modified:   readme.md
 
 
 
