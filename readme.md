@@ -31,4 +31,28 @@
 
 #### 2.2 Falling in love with Django part One
 
-		PASS		
+		PASS
+
+#### 2.6 Creating the Apps
+
+		.
+		├── apps
+		│	├── conversations
+		│	├── lists
+		│	├── reservations
+		│	├── reviews
+		│	├── rooms
+		│	└── users
+		├── config
+		│	├── __init__.py
+		│	├── __pycache__
+		│	├── settings.py
+		│	├── urls.py
+		│	└── wsgi.py
+		├── manage.py
+		├── readme.md
+		└── venv39225
+		    ├── Include
+		    ├── Lib
+		    ├── Scripts
+		    └── pyvenv.cfg
