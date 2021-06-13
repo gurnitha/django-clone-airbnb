@@ -156,7 +156,12 @@
         modified:   db.django_clone_airbnb.sqlite3
         modified:   readme.md
 
+#### 4.5 Meta Class and Photos Model
 
+        modified:   apps/rooms/admin.py
+        new file:   apps/rooms/migrations/0004_auto_20210613_0800.py
+        modified:   apps/rooms/models.py
+        modified:   db.django_clone_airbnb.sqlite3
 
 
 
