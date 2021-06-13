@@ -1,5 +1,8 @@
 ## CLONE AIRBNB USING DJANGO BASED ON NOMAD CODERS REPOSITORY ON GITHUB
 
+https://github.com/nomadcoders/airbnb-clone
+https://github.com/gurnitha/django-clone-airbnb
+
 #### 1.2 Creating our Env and Installing Django
 
         new file:   .gitignore
@@ -163,6 +166,9 @@
         modified:   apps/rooms/models.py
         modified:   db.django_clone_airbnb.sqlite3
 
+#### Modified readme.md
+
+NEXT>  #5.0 Review Model
 
 
 
